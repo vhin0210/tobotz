@@ -1,0 +1,22 @@
+{
+  "name": "tobotz",
+  "version": "1.0.0",
+  "description": "Free chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhin0210/tobots.git"
+  },
+  "author": "Mark Quirvien Cristobal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vhin0210/tobots/issues"
+  },
+  "homepage": "https://github.com/vhin0210/tobots#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
